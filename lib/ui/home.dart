@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class ScaffoldExample extends StatelessWidget {
   const ScaffoldExample({Key? key}) : super(key: key);
   _tapButton(){
-    debugPrint("Alarm buttton tapped");
+    debugPrint("Alarm button clicked");
   }
   @override
   Widget build(BuildContext context) {
